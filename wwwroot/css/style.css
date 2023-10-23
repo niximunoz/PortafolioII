@@ -1,0 +1,50 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    font-size: 35px;
+    text-align: center;
+    margin: 30px 0;
+    font-weight: bold;
+}
+p,h1,form{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 30px;
+}
+.der{
+    width: 300px;
+} 
+label{
+    display: inline-block;
+    width: 100px;
+    text-align: start;
+    margin-bottom: 10px;
+    font-size: 20px;
+    vertical-align: top;
+}
+.projects{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+.description{
+    width: 300px;
+    text-align: justify;
+}
+.titulo-proyect{
+    font-weight: bold;
+}
+.project-container{
+    height: 300px;
+    overflow: auto;
+    width: 700px;
+    margin: 0 auto;
+    border: 1px solid black;
+}

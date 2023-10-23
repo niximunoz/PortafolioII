@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "VOSgVvs0N73MPOTZiSZSghgmLtFpibqfvpXDcMI4GMM=",
+  "Source": "PortafolioII",
+  "BasePath": "_content/PortafolioII",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PortafolioII\\wwwroot",
+      "Source": "PortafolioII",
+      "ContentRoot": "C:\\Users\\nixim\\Desktop\\C#-.NET-SONDA-Septiembre-2023\\Asignaciones\\PortafolioII\\wwwroot\\",
+      "BasePath": "_content/PortafolioII",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nixim\\Desktop\\C#-.NET-SONDA-Septiembre-2023\\Asignaciones\\PortafolioII\\wwwroot\\css\\style.css",
+      "SourceId": "PortafolioII",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nixim\\Desktop\\C#-.NET-SONDA-Septiembre-2023\\Asignaciones\\PortafolioII\\wwwroot\\",
+      "BasePath": "_content/PortafolioII",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\nixim\\Desktop\\C#-.NET-SONDA-Septiembre-2023\\Asignaciones\\PortafolioII\\wwwroot\\imagenes\\profile.jpg",
+      "SourceId": "PortafolioII",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nixim\\Desktop\\C#-.NET-SONDA-Septiembre-2023\\Asignaciones\\PortafolioII\\wwwroot\\",
+      "BasePath": "_content/PortafolioII",
+      "RelativePath": "imagenes/profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\profile.jpg"
+    }
+  ]
+}
